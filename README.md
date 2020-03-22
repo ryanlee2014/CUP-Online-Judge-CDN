@@ -1,1 +1,0 @@
-# CUP-Online-Judge-CDN
